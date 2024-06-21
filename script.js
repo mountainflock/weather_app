@@ -10,7 +10,7 @@ const conditionDiv = document.querySelector(".condition");
 const windDiv = document.querySelector(".wind");
 const humidityDiv = document.querySelector(".humidity");
 
-displayWeather("Katmandu");
+displayWeather("Saint-Petersburg");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
